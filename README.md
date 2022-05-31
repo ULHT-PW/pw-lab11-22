@@ -2,7 +2,7 @@
 
 ## Adicione ao seu portefólio uma página dedicada a TFCs do DEISI. 
 
-1. De entre os TFCs do DEISI dos últimos 2 anos, cujos relatórios estão disponíveis no [repositório de TFCs](https://github.com/ULHT-PW/tfcs-repo), escolha 6 trabalhos que consideren interessantes.
+1. De entre os TFCs do DEISI dos últimos 2 anos, cujos relatórios estão disponíveis no [repositório de TFCs](https://github.com/ULHT-PW/tfcs-repo), escolha 6 trabalhos que considere interessantes.
 
 2. Crie uma nova classe para modelar e guardar a informação sobre estes TFCs, em particular com os campos: autores, orientadores, ano, titulo, resumo, imagem, relatorio, e links para github e vídeo demonstrativo. 
 
